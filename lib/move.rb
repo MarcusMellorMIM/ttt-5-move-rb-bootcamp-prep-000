@@ -13,3 +13,4 @@ def input_to_index ( position )
   position = position - 1
 end
 
+def move ( array)
