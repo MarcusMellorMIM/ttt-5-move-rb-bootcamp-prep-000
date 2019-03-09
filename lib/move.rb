@@ -8,5 +8,5 @@ end
 
 # code your input_to_index and move method here!
 
-
+spec/01_greeting_spec.rb
 
