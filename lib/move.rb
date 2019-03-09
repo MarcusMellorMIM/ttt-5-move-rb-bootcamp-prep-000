@@ -10,11 +10,11 @@ end
 
 # code your input_to_index and move method here!
 
-def input_to_index ( position )
+def input_to_index( position )
   position = position.to_i
   position = position - 1
 end
 
-def move ( array, index, value="X" )
+def move( array, index, value="X" )
   array[index] = value
 end
